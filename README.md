@@ -2,12 +2,14 @@
 
 <p align="center">
   Projeto em <strong>React.js</strong> simulando um pequeno e‑commerce, com listagem de produtos e carrinho de compras.  
-  Desenvolvido como parte do meu portfólio para demonstrar habilidades em <strong>JavaScript moderno</strong> e <strong>React</strong>.
+  ✅ Acesse online: <a href="https://marcusdba.github.io/mini-ecommerce/" target="_blank">Mini E‑commerce no GitHub Pages</a>
 </p>
 
 ---
 
 ## 📌 Demonstração
+
+👉 [Clique aqui para ver a versão online](https://marcusdba.github.io/mini-ecommerce/)
 
 ![Screenshot do projeto](./screenshot.png)
 
